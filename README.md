@@ -1,6 +1,7 @@
 ## Short Bio
 
-Yen Ying Ng is a PhD student at UMK in Toruń.... 
+I am a PhD student at Nicolaus Copernicus University in Toruń, Poland. I am interested in such areas as AI in education, distance learning, and linguistics.
+I am currently working on a project that aims to develop a speech recognition model that provides feedback on both sound and tone correctness in Mandarin Chinese for our vocabulary dataset. If the developed model can achieve similar results to human teachers in evaluating speech performance, it can potentially be integrated into online courses to save teachers' time and provide instant feedback.     
 
 ## Programme Committees
 
@@ -14,6 +15,14 @@ Yen Ying Ng is a PhD student at UMK in Toruń....
 ## Organizing Committees
 
 -	Co-Chair of the SAC'23 track on Lean and Agile Software Development [LASD@SAC'23](https://y2023.lasd.pl)
+
+## Grants and Scholarships
+
+- Rector's Scholarship from Nicolaus Copernicus University, academic years 2020/2021 and 2021/2022.
+- Scholarship from the Polish Ministry of Science and Higher Education, academic year 2021/2022.
+- (principal investigator) Grant Excellence4Students, Center of Excellence, Nicolaus Copernicus University, 2021–2022.
+- (researcher) Scholarship under UMO-2019/34/E/HS2/00248 “SONATA BIS 9” grant from the Polish National Science Centre, 1.5.2021–30.6.2023.
+- (principal investigator) The Pearl of Science Grant from the Polish National Science Centre; Title: Continuous vs Intermittent Instructor Presence in Educational Videos, 6.6.2023–5.12.2025. 142 164,00 PLN.
 
 ## Contact
 
