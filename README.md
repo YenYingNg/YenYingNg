@@ -22,5 +22,5 @@ Yen Ying Ng is a PhD student at UMK in Toruń....
 - DBLP: [https://dblp.org/pid/243/8288.html](https://dblp.org/pid/243/8288.html)
 - ORCID: [https://orcid.org/0000-0001-5388-2025](https://orcid.org/0000-0001-5388-2025)
 - Scopus Author ID: [57209978241](https://www.scopus.com/authid/detail.uri?authorId=57209978241)
-- Web of Science: [AFR-3682-2022](https://www.webofscience.com/wos/author/record/)
+- Web of Science: [DTZ-4892-2022](https://www.webofscience.com/wos/author/record/DTZ-4892-2022)
 - Google Scholar: [https://scholar.google.com/citations?user=7aqk6n8AAAAJ&hl=en](https://scholar.google.com/citations?user=7aqk6n8AAAAJ&hl=en)
