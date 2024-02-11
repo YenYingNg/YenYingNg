@@ -31,5 +31,5 @@ I am currently working on a project that aims to develop a speech recognition mo
 - DBLP: [https://dblp.org/pid/243/8288.html](https://dblp.org/pid/243/8288.html)
 - ORCID: [https://orcid.org/0000-0001-5388-2025](https://orcid.org/0000-0001-5388-2025)
 - Scopus Author ID: [57209978241](https://www.scopus.com/authid/detail.uri?authorId=57209978241)
-- Web of Science: [DTZ-4892-2022](https://www.webofscience.com/wos/author/record/DTZ-4892-2022)
+- Web of Science: [KAM-2080-2024](https://www.webofscience.com/wos/author/record/KAM-2080-2024)
 - Google Scholar: [https://scholar.google.com/citations?user=7aqk6n8AAAAJ&hl=en](https://scholar.google.com/citations?user=7aqk6n8AAAAJ&hl=en)
