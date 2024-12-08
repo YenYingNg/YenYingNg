@@ -5,7 +5,8 @@ I am currently working on a project that aims to develop a speech recognition mo
 
 ## Programme Committees
 
--	32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
+- 50th Euromicro Conference Series on Software Engineering and Advanced Applications ([SEAA'24](https://dsd-seaa.com/kkio/))
+- 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
 -	ACM Symposium on Applied Computing: Special Track on Lean and Agile Software Development ([LASD@SAC'24](https://lasd.pl))
 -	Posters Track of the 25th International Conference on Agile Software Development ([Posters@XP'24](https://www.agilealliance.org/xp2024/posters/))
 -	18th Conference on Computer Science and Intelligence Systems ([FedCSIS'23](https://2023.fedcsis.org))
@@ -14,6 +15,7 @@ I am currently working on a project that aims to develop a speech recognition mo
 
 ## Organizing Committees
 
+-	Publicity & CoC Adherence Chair of the 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
 -	Co-Chair of the SAC'23 track on Lean and Agile Software Development [LASD@SAC'23](https://y2023.lasd.pl)
 
 ## Grants and Scholarships
