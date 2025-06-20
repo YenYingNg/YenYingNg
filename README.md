@@ -5,9 +5,9 @@ I am currently working on a project that aims to develop a speech recognition mo
 
 ## Programme Committees
 
-- 50th Euromicro Conference Series on Software Engineering and Advanced Applications ([SEAA'24](https://dsd-seaa.com/kkio/))
-- 32nd International Conference on Information Systems Development ([ISD'24](https://isd2024.ug.edu.pl))
--	ACM Symposium on Applied Computing: Special Track on Lean and Agile Software Development ([LASD@SAC'24](https://lasd.pl))
+- Euromicro Conference Series on Software Engineering and Advanced Applications: [SEAA'24](https://dsd-seaa.com/seaa2024/), [SEAA'25](https://dsd-seaa.com/kkio/)
+- International Conference on Information Systems Development: [ISD'24](https://isd2024.ug.edu.pl), [ISD'25](https://isd2025.fon.bg.ac.rs/)
+-	ACM Symposium on Applied Computing: Special Track on Lean and Agile Software Development: [SAC'24](https://www.sigapp.org/sac/sac2024/)
 -	Posters Track of the 25th International Conference on Agile Software Development ([Posters@XP'24](https://www.agilealliance.org/xp2024/posters/))
 -	18th Conference on Computer Science and Intelligence Systems ([FedCSIS'23](https://2023.fedcsis.org))
 -	ADBIS Workshop on Personalization and Recommender Systems ([PeRS@FedCSIS'22](https://fedcsis.org/2022/pers), [PeRS@ADBIS'23](https://pers2023.lasd.pl), [PeRS@ADBIS'24](https://pers.lasd.pl))
